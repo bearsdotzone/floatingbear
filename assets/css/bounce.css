@@ -1,0 +1,8 @@
+div.a {
+width: 150px;
+height: 150px;
+background:url('../images/bear.png');
+background-size:cover;
+position:fixed;
+z-index:100;
+}
